@@ -1,4 +1,0 @@
-E:\OmarElpop\visual studio 2010 projects\DataTypes\DataTypes\bin\Debug\DataTypes.exe
-E:\OmarElpop\visual studio 2010 projects\DataTypes\DataTypes\bin\Debug\DataTypes.pdb
-E:\OmarElpop\visual studio 2010 projects\DataTypes\DataTypes\obj\x86\Debug\DataTypes.exe
-E:\OmarElpop\visual studio 2010 projects\DataTypes\DataTypes\obj\x86\Debug\DataTypes.pdb
